@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: Blog on first week of Python.
 layout: post
 author: james.hall
 permalink: /untitled-document/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>blog</td>
+    <td>Python</td>
     <td>Date</td>
     <td>20/09/18</td>
   </tr>
